@@ -6,7 +6,7 @@ fn main() {
     let r: f64 = 10.0;
 
    
-    let n: u32 = 5;
+    let n: f64 = 5.00;
 
     
     let a = p * (1.0 + (r / 100.0)).powi(n as i32);
@@ -17,5 +17,5 @@ fn main() {
     
     
     
-    println!("Compound Interest (CI) : ₦{:.2}", ci);
+    println!("Compound Interest  : ₦{:.2}", ci);
 }
