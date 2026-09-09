@@ -17,5 +17,5 @@ fn main() {
     
     
     
-    println!("Value of TV after 3 years (a) : ₦{:.2}", a);
+    println!("Value of TV after 3 years  : ₦{:.2}", a);
 }
